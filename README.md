@@ -3,6 +3,11 @@
   <a>Eu sou Pedro H. Evers</a>
   <b>E esse é o meu git</b>
  </div>
+  <br>
+  <div>
+    <img align="center" alt="" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green)">
+  </div>
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
