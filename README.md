@@ -7,7 +7,7 @@
 
 <br>
 
-<table rules="none">
+<table border="none">
   <tr>
     <td width="50%" >
       <div style="display: inline_block"><br>
