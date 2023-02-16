@@ -1,7 +1,7 @@
 <div>
-  <h2> Hello there!</h2> 
+  <h2> **Hello there!**</h2> 
   <a>Eu sou Pedro H. Evers</a>
-  <b>E esse é o meu git</b>
+  <a>E esse é o meu git</a>
  </div>
   
 <div style="display: inline_block"><br>
