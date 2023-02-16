@@ -1,7 +1,7 @@
 <div>
   <h2> Hello there!</h2> 
-  <a>Eu sou Pedro H. Evers</a>
-  <b>E esse é o meu git</b>
+  <p>Eu sou Pedro H. Evers</p> <br>
+  <p>E esse é o meu git</p>
  </div>
   <br>
   <div>
@@ -24,4 +24,3 @@
 </div>
 
 Today i'm searching for a new job, somewhere i can do both, study and work.
- 
