@@ -6,7 +6,7 @@
   <br>
   <table>
   <tr>
-<td width="50%" border="0" collor="">
+<td width="50%" border="0" collor="0">
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
