@@ -5,7 +5,7 @@
  </div>
   <br>
   <div>
-    <img align="center" alt="" height="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green">
+    <img align="center" alt="" height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green">
   </div>
   
   
@@ -24,3 +24,4 @@
 </div>
 
 Today i'm searching for a new job, somewhere i can do both, study and work.
+ 
