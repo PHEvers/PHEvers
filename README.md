@@ -7,7 +7,7 @@
 
 <br>
 
-<table border-opacity="1">
+<table>
   <tr>
     <td width="60%" >
       <div style="display: inline_block" align="center"> 
