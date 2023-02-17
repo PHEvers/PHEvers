@@ -1,6 +1,6 @@
-<div>
   <h2> Hello there!</h2> 
-  <p>&nbsp Eu sou Pedro Henrique Evers
+<div align="rigth">
+<p>&nbsp Eu sou Pedro Henrique Evers
    <br>
   &nbsp &nbsp E esse é o meu git</p>
 </div>
