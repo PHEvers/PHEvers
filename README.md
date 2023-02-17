@@ -1,6 +1,6 @@
 <div>
   <h2> Hello there!</h2> 
-  <p>Eu sou Pedro H. Evers
+  <p>Eu sou Pedro Henrique Evers
    <br>
   E esse é o meu git</p>
 </div>
@@ -10,7 +10,7 @@
 <table border-opacity="1">
   <tr>
     <td width="60%" >
-      <div> 
+      <div style="display: inline_block" align="center"> 
         <p>   Sou natural de Blumenau, <br>
            Estudante de Engenharia de transporte e logística na UFSC, <br>
            também participo do curso +dev2Blu sobre C#, .NET, MVC...
