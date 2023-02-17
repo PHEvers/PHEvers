@@ -9,7 +9,13 @@
 
 <table border-opacity="1">
   <tr>
-    <td width="50%" >
+    <td width="60%" >
+      <div> 
+        <p>Sou natural de Blumenau, <br>
+           Estudante de Engenharia de transporte e logística na UFSC, <br>
+           também participo do curso +dev2Blu sobre C#, .NET, MVC...
+         </p>
+       </div>
       <div style="display: inline_block" align="center"><br>
         <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,7 +29,7 @@
         <a href="https://www.linkedin.com/in/pedro-henrique-evers-903a3ab3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       </div>
     </td>
-    <td width="50%" >
+    <td width="40%" >
       <div>
         <img align="center" alt="" height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green">
       </div>
