@@ -1,8 +1,8 @@
 <div>
   <h2> Hello there!</h2> 
-  <p>Eu sou Pedro Henrique Evers
+  <p>&nbsp Eu sou Pedro Henrique Evers
    <br>
-  E esse é o meu git</p>
+  &nbsp &nbsp E esse é o meu git</p>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
       </div>
     </td>
     <td width="40%" >
-      <div>
+      <div align="center">
         <img align="center" alt="" height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green">
       </div>
     </td>
