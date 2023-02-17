@@ -12,8 +12,8 @@
     <td width="60%" >
       <div style="display: inline_block" align="center"> 
         <p>   Sou natural de Blumenau, <br>
-           Estudante de Engenharia de transporte e logística na UFSC, <br>
-           também participo do curso +dev2Blu sobre C#, .NET, MVC...
+           Estudante de Engenharia de transporte e logística na Universidade Federal de Santa Catarina. <br>
+           Também Participo do curso +dev2Blu sobre C#, .NET, MVC...
          </p>
        </div>
       <div style="display: inline_block" align="center"><br>
