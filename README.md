@@ -1,8 +1,8 @@
   <h2> Hello there!</h2> 
-<div align="rigth">
-<p>&nbsp Eu sou Pedro Henrique Evers
-   <br>
-  &nbsp &nbsp E esse é o meu git</p>
+<div align="right">
+  <p>&nbsp Eu sou Pedro Henrique Evers
+     <br>
+    &nbsp &nbsp E esse é o meu git</p>
 </div>
 
 <br>
