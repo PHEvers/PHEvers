@@ -2,7 +2,7 @@
 <div align="left">
   <p> Eu sou Pedro Henrique Evers
      <br>
-    &nbsp &nbsp &nbsp E esse é o meu git</p>
+   &nbsp &nbsp &nbsp &nbsp e esse é o meu git!</p>
 </div>
 
 <br>
