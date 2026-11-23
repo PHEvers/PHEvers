@@ -1,37 +1,23 @@
-  <h2> Hello there!</h2> 
-<div align="left">
-  <p> Eu sou Pedro Henrique Evers
-     <br>
-   &nbsp &nbsp &nbsp &nbsp e esse é o meu git!</p>
-</div>
+# Olá, eu sou o Pedro Henrique Evers 👋
 
-<br>
+**Analista de Suporte N2 Fiscal na Linx (TOTVS) | Estudante de ADS | Em transição para DevOps e Cloud**
 
-<table border="1" cellspacing="0" rules="none">
-  <tr>
-    <td width="60%" >
-      <div style="display: inline_block" align="center"> 
-        <p>   Sou natural de Blumenau, 
-          <br>Estudante de Engenharia de transporte e logística na Universidade Federal de Santa Catarina. <br>
-         </p>
-       </div>
-      <div style="display: inline_block" align="center"><br>
-        <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      </div>
-      <br>
-      <div div style="display: inline_block" align="center"> 
-        <a href="https://www.instagram.com/ph.evers/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href = "mailto:pedroevers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/pedro-henrique-evers-903a3ab3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      </div>
-    </td>
-    <td width="40%" >
-      <div align="center">
-        <img align="center" alt="" height="" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHEvers&theme=blue-green">
-      </div>
-    </td>
-  </tr>
-</table>  
+Sou de Blumenau, SC, e trabalho na investigação de incidentes em sistemas fiscais. No dia a dia, analiso logs, consulto bancos PostgreSQL e examino XMLs de NF-e e NFC-e para entender falhas de emissão e integração. Também automatizo tarefas repetitivas do suporte.
+
+Curso Análise e Desenvolvimento de Sistemas na Uniasselvi e desenvolvo laboratórios para praticar infraestrutura como código, automação de deploy e observabilidade.
+
+## Projetos e laboratórios
+
+- **[SimulaCloud](https://github.com/PHEvers/SimulaCloud)** — projeto de simulados para certificações em nuvem, com foco inicial na AWS Cloud Practitioner.
+- **[+Dev2Blu 2026](https://github.com/PHEvers/-Dev2Blu-2026)** — repositório de acompanhamento da formação em DevOps. Entre os laboratórios que realizei estão o provisionamento de EC2 com Application Load Balancer usando Terraform, a configuração de servidores com Ansible e a montagem de um cluster Kubernetes na AWS.
+- **Pipeline .NET com GitLab CI/CD** — build da imagem Docker e deploy em ambientes de staging e produção em clusters Kubernetes locais com kind.
+- **[ChatProbe](https://github.com/PHEvers/ChatProbe)** — projeto em fase inicial para automatizar testes de assistentes virtuais pela interface web e registrar evidências de cada cenário.
+
+## Tecnologias
+
+- **Suporte e investigação de incidentes** — SQL, PostgreSQL, análise de logs e XML fiscal.
+- **Infraestrutura e entrega** — Linux, Git, Docker, Kubernetes, AWS, Terraform, Ansible e GitLab CI/CD.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-evers-903a3ab3/) · [E-mail](mailto:pedroevers@gmail.com)
