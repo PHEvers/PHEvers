@@ -2,7 +2,9 @@
 
 ![Terminal de Pedro com o comando whoami e o resultado Suporte N2 Fiscal → DevOps e Cloud.](assets/terminal.svg)
 
-Trabalho com suporte N2 fiscal na **Linx (TOTVS)** e curso **Análise e Desenvolvimento de Sistemas** na Uniasselvi. Uso logs, SQL e XML fiscal para investigar incidentes.
+Atuo no **Suporte N2 Fiscal da Linx (TOTVS)**, onde investigo falhas de emissão e integração de documentos fiscais. Analiso logs, faço consultas em PostgreSQL e examino XMLs de NF-e e NFC-e para identificar a origem dos problemas. Também automatizo tarefas repetitivas do suporte.
+
+Curso **Análise e Desenvolvimento de Sistemas na Uniasselvi** e estou em transição para **DevOps e Cloud**. Nos meus laboratórios, uso Terraform para provisionar infraestrutura na AWS e pratico deploy de aplicações com Docker, Kubernetes e GitLab CI/CD.
 
 ## Projetos
 
