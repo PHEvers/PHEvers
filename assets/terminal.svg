@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-labelledby="title description">
+  <title id="title">Terminal de Pedro Henrique Evers</title>
+  <desc id="description">Três comandos apresentam minha atuação em suporte N2 fiscal, meu foco em DevOps e Cloud e meus projetos.</desc>
+  <rect x="1" y="1" width="718" height="298" rx="17" fill="#12161C" stroke="#3C444F" stroke-width="2"/>
+  <path d="M2 49V18A16 16 0 0 1 18 2h684a16 16 0 0 1 16 16v31H2Z" fill="#1B2129"/>
+  <path d="M2 49h716" stroke="#3C444F"/>
+  <circle cx="24" cy="25" r="4.5" fill="#FACC15"/>
+  <circle cx="40" cy="25" r="4.5" fill="#6D7787"/>
+  <circle cx="56" cy="25" r="4.5" fill="#505C6C"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace">
+    <text x="76" y="31" fill="#C4CDD8" font-size="16">pedro@blumenau</text>
+    <g font-size="21">
+      <g fill="#FACC15" font-weight="bold">
+        <text x="25" y="85">~ $ whoami</text>
+        <text x="25" y="155">~ $ cat foco-atual.txt</text>
+        <text x="25" y="225">~ $ ls projetos/</text>
+      </g>
+      <g fill="#F1F5FA">
+        <text x="25" y="115">Analista de Suporte N2 Fiscal</text>
+        <text x="25" y="185">DevOps e Cloud · AWS, Terraform, Kubernetes, CI/CD</text>
+        <text x="25" y="255" xml:space="preserve">simulacloud/  chatprobe/  labs-devops/</text>
+      </g>
+      <rect x="25" y="275" width="11" height="3" rx="1" fill="#FACC15"/>
+    </g>
+  </g>
+</svg>
